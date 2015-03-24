@@ -1,0 +1,39 @@
+C:\Users\Gustavo\Documents\Visual Studio 2013\Projects\HolaMundoForms\HolaMundoForms\bin\Debug\HolaMundoForms.exe.config
+C:\Users\Gustavo\Documents\Visual Studio 2013\Projects\HolaMundoForms\HolaMundoForms\bin\Debug\HolaMundoForms.exe
+C:\Users\Gustavo\Documents\Visual Studio 2013\Projects\HolaMundoForms\HolaMundoForms\bin\Debug\HolaMundoForms.pdb
+C:\Users\Gustavo\Documents\Visual Studio 2013\Projects\HolaMundoForms\HolaMundoForms\obj\Debug\HolaMundoForms.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Documents\Visual Studio 2013\Projects\HolaMundoForms\HolaMundoForms\obj\Debug\HolaMundoForms.Properties.Resources.resources
+C:\Users\Gustavo\Documents\Visual Studio 2013\Projects\HolaMundoForms\HolaMundoForms\obj\Debug\HolaMundoForms.csproj.GenerateResource.Cache
+C:\Users\Gustavo\Documents\Visual Studio 2013\Projects\HolaMundoForms\HolaMundoForms\obj\Debug\HolaMundoForms.exe
+C:\Users\Gustavo\Documents\Visual Studio 2013\Projects\HolaMundoForms\HolaMundoForms\obj\Debug\HolaMundoForms.pdb
+C:\Users\Gustavo\Documents\Visual Studio 2013\Projects\HolaMundoForms\HolaMundoForms\obj\Debug\HolaMundoForms.frmPrincipal.resources
+C:\Users\Gustavo\Documents\Visual Studio 2013\Projects\HolaMundoForms\HolaMundoForms\obj\Debug\HolaMundoForms.FormLogIn.resources
+C:\Users\TOSHIBA\Desktop\HolaMundoForms\HolaMundoForms\bin\Debug\HolaMundoForms.exe.config
+C:\Users\TOSHIBA\Desktop\HolaMundoForms\HolaMundoForms\obj\Debug\HolaMundoForms.exe
+C:\Users\TOSHIBA\Desktop\HolaMundoForms\HolaMundoForms\obj\Debug\HolaMundoForms.pdb
+C:\Users\TOSHIBA\Desktop\HolaMundoForms\HolaMundoForms\obj\Debug\HolaMundoForms.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\HolaMundoForms\HolaMundoForms\obj\Debug\HolaMundoForms.FormLogIn.resources
+C:\Users\TOSHIBA\Desktop\HolaMundoForms\HolaMundoForms\obj\Debug\HolaMundoForms.frmPrincipal.resources
+C:\Users\TOSHIBA\Desktop\HolaMundoForms\HolaMundoForms\obj\Debug\HolaMundoForms.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\HolaMundoForms\HolaMundoForms\obj\Debug\HolaMundoForms.csproj.GenerateResource.Cache
+C:\Users\TOSHIBA\Desktop\HolaMundoForms\HolaMundoForms\bin\Debug\HolaMundoForms.exe
+C:\Users\TOSHIBA\Desktop\HolaMundoForms\HolaMundoForms\bin\Debug\HolaMundoForms.pdb
+C:\Users\TOSHIBA\Desktop\HolaMundoForms\HolaMundoForms\obj\Debug\HolaMundoForms.NuevoUsuario.resources
+C:\Users\Rodrigo Campos\Documents\Visual Studio 2013\Projects\HolaMundoForms\HolaMundoForms\bin\Debug\HolaMundoForms.exe.config
+C:\Users\Rodrigo Campos\Documents\Visual Studio 2013\Projects\HolaMundoForms\HolaMundoForms\obj\Debug\HolaMundoForms.exe
+C:\Users\Rodrigo Campos\Documents\Visual Studio 2013\Projects\HolaMundoForms\HolaMundoForms\obj\Debug\HolaMundoForms.pdb
+C:\Users\Rodrigo Campos\Documents\Visual Studio 2013\Projects\HolaMundoForms\HolaMundoForms\bin\Debug\HolaMundoForms.exe
+C:\Users\Rodrigo Campos\Documents\Visual Studio 2013\Projects\HolaMundoForms\HolaMundoForms\bin\Debug\HolaMundoForms.pdb
+C:\Users\Rodrigo Campos\Documents\Visual Studio 2013\Projects\HolaMundoForms\HolaMundoForms\obj\Debug\HolaMundoForms.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo Campos\Documents\Visual Studio 2013\Projects\HolaMundoForms\HolaMundoForms\obj\Debug\HolaMundoForms.FormLogIn.resources
+C:\Users\Rodrigo Campos\Documents\Visual Studio 2013\Projects\HolaMundoForms\HolaMundoForms\obj\Debug\HolaMundoForms.NuevoUsuario.resources
+C:\Users\Rodrigo Campos\Documents\Visual Studio 2013\Projects\HolaMundoForms\HolaMundoForms\obj\Debug\HolaMundoForms.frmPrincipal.resources
+C:\Users\Rodrigo Campos\Documents\Visual Studio 2013\Projects\HolaMundoForms\HolaMundoForms\obj\Debug\HolaMundoForms.Properties.Resources.resources
+C:\Users\Rodrigo Campos\Documents\Visual Studio 2013\Projects\HolaMundoForms\HolaMundoForms\obj\Debug\HolaMundoForms.csproj.GenerateResource.Cache
+C:\Users\Rodrigo Campos\documents\visual studio 2013\Projects\HolaMundoForms\HolaMundoForms\obj\Debug\HolaMundoForms.Catalogos.Almacen.resources
+C:\Users\Rodrigo Campos\documents\visual studio 2013\Projects\HolaMundoForms\HolaMundoForms\obj\Debug\HolaMundoForms.Catalogos.Clientes.resources
+C:\Users\Rodrigo Campos\documents\visual studio 2013\Projects\HolaMundoForms\HolaMundoForms\obj\Debug\HolaMundoForms.Catalogos.FormProductos.resources
+C:\Users\Rodrigo Campos\documents\visual studio 2013\Projects\HolaMundoForms\HolaMundoForms\obj\Debug\HolaMundoForms.Catalogos.Proveedores.resources
+C:\Users\Rodrigo Campos\documents\visual studio 2013\Projects\HolaMundoForms\HolaMundoForms\obj\Debug\HolaMundoForms.Catalogos.Sucursales.resources
+C:\Users\Rodrigo Campos\documents\visual studio 2013\Projects\HolaMundoForms\HolaMundoForms\obj\Debug\HolaMundoForms.Catalogos.Usuario.resources
+C:\Users\Rodrigo Campos\documents\visual studio 2013\Projects\HolaMundoForms\HolaMundoForms\obj\Debug\HolaMundoForms.GUI.Menu.frmMenu.resources
